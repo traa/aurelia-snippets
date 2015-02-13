@@ -10,7 +10,16 @@ https://github.com/bennage/pundit/tree/master/client
 
  - [x]	https://github.com/Aaike/dom		DOM wrapper
 
+ - [ ]	https://github.com/PWKad/aurelia-samples 		Samples
+
+ - [ ]	https://github.com/YoloDev/mimosa-aurelia-skeleton 
+
+ - [ ]	https://github.com/mickeyvip/aurelia-todomvc
+
+
 
 
 ## Articles
  - [x]	https://pwkad.wordpress.com/2015/01/27/best-parts-of-aurelia-part-1-composing-custom-elements-templates/
+
+  - [ ]	http://byteflux.me/aurelia-day-two/
