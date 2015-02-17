@@ -15,6 +15,9 @@ https://github.com/bennage/pundit/tree/master/client
  - [ ]	https://github.com/YoloDev/mimosa-aurelia-skeleton 
 
  - [ ]	https://github.com/mickeyvip/aurelia-todomvc
+ - [ ] https://github.com/janvanderhaegen/aurelia-validation
+ - [ ] https://github.com/Aesthetickz/aurelia-flux
+ 
 
 
 
